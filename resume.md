@@ -7,13 +7,13 @@ Current Position Description
 
 ## Education
 
-`2012 - 2018`
-__The George Washington University__  
-Ph.D/M.A in Economics
+`1990 - 1994`
+__University Name__
+Degree Awarded
 
-`2006 - 2010`
-__JiMei University__  
-Bachelor in Economics 
+`1995 - 1997`
+__University Name__
+Degree Awarded 
 
 ## Awards
 
@@ -43,24 +43,27 @@ Book Title, Journal Title
 
 ## Presentations
 
-`2015`
-Presenter, NARSCI, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+`1994`
+Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
 
-`Previous`
-__Loan Officer__, Huaxia Bank, Hunnan Branch 
+`Current`
+__Current Job Title__, Current Employer 
 
-- loan inspection
-- loan system management
+- Task
+- Task
 
+`1994-1996`
+__Current Job Title__, Current Employer 
 
+- Task
+- Task
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
