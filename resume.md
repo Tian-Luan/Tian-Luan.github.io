@@ -49,17 +49,13 @@ Presenter, NARSCI, <a href="http://MyWebsite.tld/presentation1">Link to Presenta
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`Previous`
+__Loan Officer__, Huaxia Bank, Hunnan Branch 
 
-- Task
-- Task
+- loan inspection
+- loan system management
 
-`1994-1996`
-__Current Job Title__, Current Employer 
 
-- Task
-- Task
 
 
 
