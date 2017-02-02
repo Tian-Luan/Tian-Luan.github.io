@@ -8,11 +8,11 @@ Current Position Description
 ## Education
 
 `2012 - 2018`
-__The George Washington University__
+__The George Washington University__  
 Ph.D/M.A in Economics
 
 `2006 - 2010`
-__JiMei University__
+__JiMei University__  
 Bachelor in Economics 
 
 ## Awards
