@@ -7,13 +7,13 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - 2018`
+__The George Washington University__
+Ph.D/M.A in Economics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2006 - 2010`
+__JiMei University__
+Bachelor in Economics 
 
 ## Awards
 
@@ -43,8 +43,8 @@ Book Title, Journal Title
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2015`
+Presenter, NARSCI, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
