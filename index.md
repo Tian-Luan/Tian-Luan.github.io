@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Housing Prices and Credit Risk: Evidence from Jumbo/Non-Jumbo loan interest rate spread
+- A New Estimate of Elasticity of Substitution between Land and Structure
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
