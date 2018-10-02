@@ -3,22 +3,31 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Seeking a position that enables me to apply quantitative analysis, data management, economic programming and modeling into the financial markets while get a chance to learn from the industry experts
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - Present`
+__The George Washington University__
+M.A and Ph.d in Econometrics and Quantitative Economics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2006 - 2010`
+__JiMei University__
+Bachelor in Economics with honors  
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2018`
+John Whitfield Kendrick Graduate Fellowship in Economics, GWU
+
+`2017`
+CCAS Travel Grant, GWU
+
+`2013-2017`
+University Fellowship & Graduate Teaching Assistant, GWU
+
+`2006-2010`
+Scholarship for Academic Excellence, JiMei University
 
 ## Publications
 
