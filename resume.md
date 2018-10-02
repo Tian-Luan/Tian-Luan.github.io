@@ -9,10 +9,12 @@ Seeking a position that enables me to apply quantitative analysis, data manageme
 
 `2012 - Present`
 __The George Washington University__
+
 M.A and Ph.d in Econometrics and Quantitative Economics
 
 `2006 - 2010`
 __JiMei University__
+
 Bachelor in Economics with honors  
 
 ## Awards
